@@ -14,6 +14,10 @@ A disposição dos cards é rendizada seguindo as seguintes regras:
 - Material UI
 - SCSS
 
+## Deploy:
+
+https://serasa-app.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
